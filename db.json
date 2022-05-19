@@ -1,0 +1,49 @@
+{
+  "laptop": [
+    {
+      "Model": "6th gen i5",
+      "Make_year": "2020",
+      "Operating_System": "window",
+      "Screen_Height": "44 inc",
+      "Screen_Width": "44 inc",
+      "Price": "55,000",
+      "id": 1
+    },
+    {
+      "Model": "7th gen i7",
+      "Make_year": "2019",
+      "Operating_System": "window",
+      "Screen_Height": "44 inc",
+      "Screen_Width": "44 inc",
+      "Price": "57,000",
+      "id": 2
+    },
+    {
+      "Model": "5th gen i8",
+      "Make_year": "2022",
+      "Operating_System": "window",
+      "Screen_Height": "40 inc",
+      "Screen_Width": "42 inc",
+      "Price": "53,000",
+      "id": 3
+    },
+    {
+      "Model": "7th gen i7",
+      "Make_year": "2022",
+      "Operating_System": "window",
+      "Screen_Height": "40 inc",
+      "Screen_Width": "44 inc",
+      "Price": "57,000",
+      "id": 4
+    },
+    {
+      "Model": "5th gen i3",
+      "Make_year": "2018",
+      "Operating_System": "Linux",
+      "Screen_Height": "38 inc",
+      "Screen_Width": "40 inc",
+      "Price": "40,000",
+      "id": 5
+    }
+  ]
+}
